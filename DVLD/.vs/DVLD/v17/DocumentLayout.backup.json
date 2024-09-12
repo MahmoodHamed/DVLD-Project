@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2988BCA5-CC3C-4546-A675-834F32AA8DD1}|..\\DVLD-DataAccessLayer\\DVLD-DataAccessLayer.csproj|c:\\users\\mahmood-hamed\\source\\repos\\dvld-dataaccesslayer\\licenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988BCA5-CC3C-4546-A675-834F32AA8DD1}|..\\DVLD-DataAccessLayer\\DVLD-DataAccessLayer.csproj|c:\\users\\mahmood-hamed\\source\\repos\\dvld-dataaccesslayer\\peopledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988BCA5-CC3C-4546-A675-834F32AA8DD1}|..\\DVLD-DataAccessLayer\\DVLD-DataAccessLayer.csproj|c:\\users\\mahmood-hamed\\source\\repos\\dvld-dataaccesslayer\\internationallicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988BCA5-CC3C-4546-A675-834F32AA8DD1}|..\\DVLD-DataAccessLayer\\DVLD-DataAccessLayer.csproj|c:\\users\\mahmood-hamed\\source\\repos\\dvld-dataaccesslayer\\licenseclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988BCA5-CC3C-4546-A675-834F32AA8DD1}|..\\DVLD-DataAccessLayer\\DVLD-DataAccessLayer.csproj|c:\\users\\mahmood-hamed\\source\\repos\\dvld-dataaccesslayer\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988BCA5-CC3C-4546-A675-834F32AA8DD1}|..\\DVLD-DataAccessLayer\\DVLD-DataAccessLayer.csproj|c:\\users\\mahmood-hamed\\source\\repos\\dvld-dataaccesslayer\\localdrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988BCA5-CC3C-4546-A675-834F32AA8DD1}|..\\DVLD-DataAccessLayer\\DVLD-DataAccessLayer.csproj|c:\\users\\mahmood-hamed\\source\\repos\\dvld-dataaccesslayer\\testtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988BCA5-CC3C-4546-A675-834F32AA8DD1}|..\\DVLD-DataAccessLayer\\DVLD-DataAccessLayer.csproj|c:\\users\\mahmood-hamed\\source\\repos\\dvld-dataaccesslayer\\testappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988BCA5-CC3C-4546-A675-834F32AA8DD1}|..\\DVLD-DataAccessLayer\\DVLD-DataAccessLayer.csproj|c:\\users\\mahmood-hamed\\source\\repos\\dvld-dataaccesslayer\\detainedlicensesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988BCA5-CC3C-4546-A675-834F32AA8DD1}|..\\DVLD-DataAccessLayer\\DVLD-DataAccessLayer.csproj|c:\\users\\mahmood-hamed\\source\\repos\\dvld-dataaccesslayer\\driversdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988BCA5-CC3C-4546-A675-834F32AA8DD1}|..\\DVLD-DataAccessLayer\\DVLD-DataAccessLayer.csproj|c:\\users\\mahmood-hamed\\source\\repos\\dvld-dataaccesslayer\\usersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988BCA5-CC3C-4546-A675-834F32AA8DD1}|..\\DVLD-DataAccessLayer\\DVLD-DataAccessLayer.csproj|c:\\users\\mahmood-hamed\\source\\repos\\dvld-dataaccesslayer\\applicationstypesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988BCA5-CC3C-4546-A675-834F32AA8DD1}|..\\DVLD-DataAccessLayer\\DVLD-DataAccessLayer.csproj|c:\\users\\mahmood-hamed\\source\\repos\\dvld-dataaccesslayer\\applicationsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988BCA5-CC3C-4546-A675-834F32AA8DD1}|..\\DVLD-DataAccessLayer\\DVLD-DataAccessLayer.csproj|c:\\users\\mahmood-hamed\\source\\repos\\dvld-dataaccesslayer\\countrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|C:\\Users\\mahmood-hamed\\source\\repos\\DVLD\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|solutionrelative:tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Licenses.cs",
+              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\Licenses.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-DataAccessLayer\\Licenses.cs",
+              "ToolTip": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\Licenses.cs",
+              "RelativeToolTip": "..\\DVLD-DataAccessLayer\\Licenses.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAcwPAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:01:17.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeopleData.cs",
+              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\PeopleData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-DataAccessLayer\\PeopleData.cs",
+              "ToolTip": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\PeopleData.cs",
+              "RelativeToolTip": "..\\DVLD-DataAccessLayer\\PeopleData.cs",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAcwIoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:31:14.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\Tests.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-DataAccessLayer\\Tests.cs",
+              "ToolTip": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\Tests.cs",
+              "RelativeToolTip": "..\\DVLD-DataAccessLayer\\Tests.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAmwPIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:41:02.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LicenseClasses.cs",
+              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\LicenseClasses.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-DataAccessLayer\\LicenseClasses.cs",
+              "ToolTip": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\LicenseClasses.cs",
+              "RelativeToolTip": "..\\DVLD-DataAccessLayer\\LicenseClasses.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAAAA4BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:13:11.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocalDrivingLicenseApplications.cs",
+              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\LocalDrivingLicenseApplications.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-DataAccessLayer\\LocalDrivingLicenseApplications.cs",
+              "ToolTip": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\LocalDrivingLicenseApplications.cs",
+              "RelativeToolTip": "..\\DVLD-DataAccessLayer\\LocalDrivingLicenseApplications.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAOUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:25:51.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestTypes.cs",
+              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\TestTypes.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-DataAccessLayer\\TestTypes.cs",
+              "ToolTip": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\TestTypes.cs",
+              "RelativeToolTip": "..\\DVLD-DataAccessLayer\\TestTypes.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAAAAcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:12:32.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\TestAppointments.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-DataAccessLayer\\TestAppointments.cs",
+              "ToolTip": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\TestAppointments.cs",
+              "RelativeToolTip": "..\\DVLD-DataAccessLayer\\TestAppointments.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAAP8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:52:53.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InternationalLicenses.cs",
+              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\InternationalLicenses.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-DataAccessLayer\\InternationalLicenses.cs",
+              "ToolTip": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\InternationalLicenses.cs",
+              "RelativeToolTip": "..\\DVLD-DataAccessLayer\\InternationalLicenses.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAWwNMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:05:40.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetainedLicensesData.cs",
+              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\DetainedLicensesData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-DataAccessLayer\\DetainedLicensesData.cs",
+              "ToolTip": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\DetainedLicensesData.cs",
+              "RelativeToolTip": "..\\DVLD-DataAccessLayer\\DetainedLicensesData.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAAAE4BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:31:26.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DriversData.cs",
+              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\DriversData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-DataAccessLayer\\DriversData.cs",
+              "ToolTip": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\DriversData.cs",
+              "RelativeToolTip": "..\\DVLD-DataAccessLayer\\DriversData.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:44:53.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationsTypesData.cs",
+              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\ApplicationsTypesData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-DataAccessLayer\\ApplicationsTypesData.cs",
+              "ToolTip": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\ApplicationsTypesData.cs",
+              "RelativeToolTip": "..\\DVLD-DataAccessLayer\\ApplicationsTypesData.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:33:04.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationsData.cs",
+              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\ApplicationsData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-DataAccessLayer\\ApplicationsData.cs",
+              "ToolTip": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\ApplicationsData.cs",
+              "RelativeToolTip": "..\\DVLD-DataAccessLayer\\ApplicationsData.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAUwOEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:33:49.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersData.cs",
+              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\UsersData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-DataAccessLayer\\UsersData.cs",
+              "ToolTip": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\UsersData.cs",
+              "RelativeToolTip": "..\\DVLD-DataAccessLayer\\UsersData.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAEwDkBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:27:17.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CountryData.cs",
+              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\CountryData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-DataAccessLayer\\CountryData.cs",
+              "ToolTip": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD-DataAccessLayer\\CountryData.cs",
+              "RelativeToolTip": "..\\DVLD-DataAccessLayer\\CountryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:51:11.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tests.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD\\Tests.cs",
+              "RelativeDocumentMoniker": "Tests.cs",
+              "ToolTip": "C:\\Users\\mahmood-hamed\\source\\repos\\DVLD\\Tests.cs [Design]",
+              "RelativeToolTip": "Tests.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:50:14.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

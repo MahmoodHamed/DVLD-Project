@@ -1,0 +1,6 @@
+C:\Users\mahmood-hamed\source\repos\DVLD-BusinessLayer\bin\Debug\DVLD-BusinessLayer.dll
+C:\Users\mahmood-hamed\source\repos\DVLD-BusinessLayer\bin\Debug\DVLD-BusinessLayer.pdb
+C:\Users\mahmood-hamed\source\repos\DVLD-BusinessLayer\obj\Debug\DVLD-BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mahmood-hamed\source\repos\DVLD-BusinessLayer\obj\Debug\DVLD-BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mahmood-hamed\source\repos\DVLD-BusinessLayer\obj\Debug\DVLD-BusinessLayer.dll
+C:\Users\mahmood-hamed\source\repos\DVLD-BusinessLayer\obj\Debug\DVLD-BusinessLayer.pdb
