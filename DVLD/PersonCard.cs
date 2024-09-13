@@ -7,18 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using DVLD_BusinessLayer;
+
 namespace DVLD
 {
-    public partial class Tests : Form
+    public partial class PersonCard : UserControl
     {
-        public Tests()
+        public PersonCard()
         {
             InitializeComponent();
         }
-        private void Tests_Load(object sender, EventArgs e)
-        {
-        }
     }
 }
-    

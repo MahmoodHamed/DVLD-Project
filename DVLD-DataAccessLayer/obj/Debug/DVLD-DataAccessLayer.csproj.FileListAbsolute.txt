@@ -4,3 +4,9 @@ C:\Users\mahmood-hamed\source\repos\DVLD-DataAccessLayer\obj\Debug\DVLD-DataAcce
 C:\Users\mahmood-hamed\source\repos\DVLD-DataAccessLayer\obj\Debug\DVLD-DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\mahmood-hamed\source\repos\DVLD-DataAccessLayer\obj\Debug\DVLD-DataAccessLayer.dll
 C:\Users\mahmood-hamed\source\repos\DVLD-DataAccessLayer\obj\Debug\DVLD-DataAccessLayer.pdb
+C:\Users\mahmood-hamed\Downloads\My-Git\DVLD-Project\DVLD-DataAccessLayer\bin\Debug\DVLD-DataAccessLayer.dll
+C:\Users\mahmood-hamed\Downloads\My-Git\DVLD-Project\DVLD-DataAccessLayer\bin\Debug\DVLD-DataAccessLayer.pdb
+C:\Users\mahmood-hamed\Downloads\My-Git\DVLD-Project\DVLD-DataAccessLayer\obj\Debug\DVLD-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\mahmood-hamed\Downloads\My-Git\DVLD-Project\DVLD-DataAccessLayer\obj\Debug\DVLD-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mahmood-hamed\Downloads\My-Git\DVLD-Project\DVLD-DataAccessLayer\obj\Debug\DVLD-DataAccessLayer.dll
+C:\Users\mahmood-hamed\Downloads\My-Git\DVLD-Project\DVLD-DataAccessLayer\obj\Debug\DVLD-DataAccessLayer.pdb
