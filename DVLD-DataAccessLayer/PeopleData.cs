@@ -45,7 +45,7 @@ namespace DVLD_DataAccessLayer
         }
 
         public static bool GetPersonInfoByID(int PersonID, ref string NationalNo,ref string FirstName,
-            ref string SecondName,ref string ThirdName, ref string LastName,ref DateTime DateOfBirth,ref short Gendor,
+            ref string SecondName,ref string ThirdName, ref string LastName,ref DateTime DateOfBirth,ref byte Gendor,
             ref string Address, ref string Phone, ref string Email, ref int NationalityCountryID, ref string ImagePath)
         {
             bool isFound = false;
@@ -74,7 +74,7 @@ namespace DVLD_DataAccessLayer
                     ThirdName = (string)reader["ThirdName"];
                     LastName = (string)reader["LastName"];
                     DateOfBirth = (DateTime)reader["DateOfBirth"];
-                    Gendor = (short)reader["Gendor"];
+                    Gendor = (byte)reader["Gendor"];
                     Address = (string)reader["Address"];
                     Phone = (string)reader["Phone"];
                     Email = (string)reader["Email"];
@@ -118,7 +118,7 @@ namespace DVLD_DataAccessLayer
         }
 
         public static bool GetPersonInfoByNationalNo(ref int PersonID, string NationalNo, ref string FirstName,
-    ref string SecondName, ref string ThirdName, ref string LastName, ref DateTime DateOfBirth,ref short Gendor,
+    ref string SecondName, ref string ThirdName, ref string LastName, ref DateTime DateOfBirth,ref byte Gendor,
     ref string Address, ref string Phone, ref string Email, ref int NationalityCountryID, ref string ImagePath)
         {
             bool isFound = false;
@@ -147,7 +147,7 @@ namespace DVLD_DataAccessLayer
                     ThirdName = (string)reader["ThirdName"];
                     LastName = (string)reader["LastName"];
                     DateOfBirth = (DateTime)reader["DateOfBirth"];
-                    Gendor = (short)reader["Gendor"];
+                    Gendor = (byte)reader["Gendor"];
                     Address = (string)reader["Address"];
                     Phone = (string)reader["Phone"];
                     Email = (string)reader["Email"];
@@ -191,7 +191,7 @@ namespace DVLD_DataAccessLayer
         }
 
         public static int AddNewPerson(string NationalNo,  string FirstName,
-     string SecondName,  string ThirdName,  string LastName,  DateTime DateOfBirth, short Gendor,
+     string SecondName,  string ThirdName,  string LastName,  DateTime DateOfBirth, byte Gendor,
      string Address,  string Phone, string Email,int NationalityCountryID, string ImagePath)
         {
             //this function will return the new contact id if succeeded and -1 if not.
@@ -255,7 +255,7 @@ namespace DVLD_DataAccessLayer
         }
 
         public static bool UpdatePerson(int PersonID,string NationalNo, string FirstName,
-        string SecondName, string ThirdName, string LastName, DateTime DateOfBirth, short Gendor,
+        string SecondName, string ThirdName, string LastName, DateTime DateOfBirth, byte Gendor,
         string Address, string Phone, string Email, int NationalityCountryID, string ImagePath)
         {
             //this function will return the new contact id if succeeded and -1 if not.
@@ -370,6 +370,41 @@ namespace DVLD_DataAccessLayer
             SqlCommand command = new SqlCommand(query, connection);
 
             command.Parameters.AddWithValue("@PersonID", PersonID);
+
+            try
+            {
+                connection.Open();
+                SqlDataReader reader = command.ExecuteReader();
+
+                isFound = reader.HasRows;
+
+                reader.Close();
+            }
+            catch (Exception ex)
+            {
+                //Console.WriteLine("Error: " + ex.Message);
+                isFound = false;
+            }
+            finally
+            {
+                connection.Close();
+            }
+
+            return isFound;
+        }
+
+
+        public static bool IsPersonExist(string NationalNo)
+        {
+            bool isFound = false;
+
+            SqlConnection connection = new SqlConnection(clsDataAccessSettings.ConnectionString);
+
+            string query = "SELECT Found=1 FROM People WHERE NationalNo = @NationalNo";
+
+            SqlCommand command = new SqlCommand(query, connection);
+
+            command.Parameters.AddWithValue("@NationalNo", NationalNo);
 
             try
             {

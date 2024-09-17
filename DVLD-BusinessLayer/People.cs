@@ -1,33 +1,32 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using DVLD_DataAccessLayer;
+using System.IO;
 namespace DVLD_BusinessLayer
 {
     public class People
     {
-        private enum Mode { Add = 1, Update = 2 };
-        Mode enMode = Mode.Add;
+        public enum EnMode { Add = 1, Update = 2 };
+        public EnMode Mode = EnMode.Add;
+
+        
         public int PersonID { get; set; }
-        public string NationalNo {get; set;}
-        public string FirstName {get; set;}
-        public string SecondName {get; set;}
-        public string ThirdName {get; set;}
-        public string LastName {get; set;}
-        public DateTime DateOfBirth {get; set;}
-        public short Gendor {get; set;}
-        public string Address {get; set;}
-        public string Phone {get; set;}
-        public string Email {get; set;}
-        public int NationalityCountryID {get; set;}
+        public string NationalNo { get; set; }
+        public string FirstName { get; set; }
+        public string SecondName { get; set; }
+        public string ThirdName { get; set; }
+        public string LastName { get; set; }
+        public DateTime DateOfBirth { get; set; }
+        public byte Gendor { get; set; }
+        public string Address { get; set; }
+        public string Phone { get; set; }
+        public string Email { get; set; }
+        public int NationalityCountryID { get; set; }
         public string ImagePath { get; set; }
 
 
         public People(int PersonID, string NationalNo, string FirstName,
-     string SecondName, string ThirdName, string LastName, DateTime DateOfBirth, short Gendor,
+     string SecondName, string ThirdName, string LastName, DateTime DateOfBirth, byte Gendor,
      string Address, string Phone, string Email, int NationalityCountryID, string ImagePath)
         {
             this.PersonID = PersonID;
@@ -44,7 +43,7 @@ namespace DVLD_BusinessLayer
             this.NationalityCountryID = NationalityCountryID;
             this.ImagePath = ImagePath;
 
-            enMode = Mode.Update;
+            Mode = EnMode.Update;
         }
 
         public People()
@@ -56,14 +55,14 @@ namespace DVLD_BusinessLayer
             ThirdName = "";
             LastName = "";
             DateOfBirth = DateTime.Now;
-            Gendor = -1;
+            Gendor = 0;
             Address = "";
             Phone = "";
             Email = "";
             NationalityCountryID = -1;
             ImagePath = "";
 
-            enMode = Mode.Add;
+            Mode = EnMode.Add;
 
         }
 
@@ -73,7 +72,7 @@ namespace DVLD_BusinessLayer
             DataTable dt = PeopleData.GetAllPeople();
             return dt;
         }
-        public static People GetPersonInfoByPersonID(int PersonID)
+        public static People FindByID(int PersonID)
         {
             People Person;
 
@@ -83,26 +82,27 @@ namespace DVLD_BusinessLayer
             string ThirdName = "";
             string LastName = "";
             DateTime DateOfBirth = DateTime.Now;
-            short Gendor = -1;
+            byte Gendor = 0;
             string Address = "";
             string Phone = "";
             string Email = "";
             int NationalityCountryID = -1;
             string ImagePath = "";
-            if (PeopleData.GetPersonInfoByID(PersonID, ref NationalNo, ref FirstName, 
+            if (PeopleData.GetPersonInfoByID(PersonID, ref NationalNo, ref FirstName,
                 ref SecondName, ref ThirdName, ref LastName, ref DateOfBirth,
                 ref Gendor, ref Address, ref Phone, ref Email, ref NationalityCountryID, ref ImagePath))
             {
-                Person = new People(PersonID, NationalNo, FirstName, SecondName,ThirdName,LastName,DateOfBirth,Gendor,Address,Phone
-                ,Email, NationalityCountryID, ImagePath);
-            }else
+                Person = new People(PersonID, NationalNo, FirstName, SecondName, ThirdName, LastName, DateOfBirth, Gendor, Address, Phone
+                , Email, NationalityCountryID, ImagePath);
+            }
+            else
             {
-                Person =null;
+                Person = null;
             }
             return Person;
         }
 
-        public static People GetPersonInfoByNationalNo(string NationalNo)
+        public static People FindByNationalNo(string NationalNo)
         {
             People Person;
 
@@ -112,7 +112,7 @@ namespace DVLD_BusinessLayer
             string ThirdName = "";
             string LastName = "";
             DateTime DateOfBirth = DateTime.Now;
-            short Gendor = -1;
+            byte Gendor = 0;
             string Address = "";
             string Phone = "";
             string Email = "";
@@ -131,6 +131,63 @@ namespace DVLD_BusinessLayer
             }
             return Person;
         }
+       
+        private bool _AddNewPerson()
+        {
+            this.PersonID = PeopleData.AddNewPerson(this.NationalNo, this.FirstName,
+      this.SecondName, this.ThirdName, this.LastName, this.DateOfBirth, this.Gendor,
+      this.Address, this.Phone, this.Email, this.NationalityCountryID, this.ImagePath);
 
-    }
+
+            return (PersonID != -1);
+        }
+
+        private bool _UpdatePersonInfo()
+        {
+            return PeopleData.UpdatePerson(this.PersonID, this.NationalNo, this.FirstName,
+     this.SecondName, this.ThirdName, this.LastName, this.DateOfBirth, this.Gendor,
+     this.Address, this.Phone, this.Email, this.NationalityCountryID, this.ImagePath);
+        }
+
+        public static bool DeletePersonByID(int PersonID)
+        {
+            return PeopleData.DeletePerson(PersonID);
+        }
+
+        public static bool IsPersonExist(int PersonID)
+        {
+            return PeopleData.IsPersonExist(PersonID);
+        }
+        public static bool IsPersonExist(string NationalNo)
+        {
+            return PeopleData.IsPersonExist(NationalNo);
+        }
+
+        public bool Save()
+        {
+
+            bool IsSaved = false;
+            switch (Mode)
+            { 
+                case EnMode.Add:
+                    if (_AddNewPerson())
+                    {
+
+                        Mode = EnMode.Update;
+                        IsSaved = true;
+                    }
+                    else
+                    {
+                        IsSaved = false;
+                    }
+                    break;
+                case EnMode.Update:
+
+                    IsSaved = _UpdatePersonInfo();
+                    break;  
+            }
+
+            return IsSaved;
+        }
+    } 
 }
