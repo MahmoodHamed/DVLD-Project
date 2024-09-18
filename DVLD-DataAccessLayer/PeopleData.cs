@@ -79,9 +79,6 @@ namespace DVLD_DataAccessLayer
                     Phone = (string)reader["Phone"];
                     Email = (string)reader["Email"];
                     NationalityCountryID = (int)reader["NationalityCountryID"];
-                    ImagePath = (string)reader["ImagePath"];
-
-
 
                     //ImagePath: allows null in database so we should handle null
                     if (reader["ImagePath"] != DBNull.Value)
@@ -152,10 +149,6 @@ namespace DVLD_DataAccessLayer
                     Phone = (string)reader["Phone"];
                     Email = (string)reader["Email"];
                     NationalityCountryID = (int)reader["NationalityCountryID"];
-                    ImagePath = (string)reader["ImagePath"];
-
-
-
                     //ImagePath: allows null in database so we should handle null
                     if (reader["ImagePath"] != DBNull.Value)
                     {
@@ -219,7 +212,6 @@ namespace DVLD_DataAccessLayer
             command.Parameters.AddWithValue("@Phone", Phone);
             command.Parameters.AddWithValue("@Email", Email);
             command.Parameters.AddWithValue("@NationalityCountryID", NationalityCountryID);
-            command.Parameters.AddWithValue("@ImagePath", ImagePath);
 
             if (ImagePath != "" && ImagePath != null)
                 command.Parameters.AddWithValue("@ImagePath", ImagePath);
@@ -294,7 +286,6 @@ namespace DVLD_DataAccessLayer
             command.Parameters.AddWithValue("@Phone", Phone);
             command.Parameters.AddWithValue("@Email", Email);
             command.Parameters.AddWithValue("@NationalityCountryID", NationalityCountryID);
-            command.Parameters.AddWithValue("@ImagePath", ImagePath);
 
             if (ImagePath != "" && ImagePath != null)
                 command.Parameters.AddWithValue("@ImagePath", ImagePath);

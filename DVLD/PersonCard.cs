@@ -43,13 +43,13 @@ namespace DVLD
                 rdbFmale.Checked = true;
             }
 
-/*            if(Person.ImagePath != "")
+          if(Person.ImagePath != "")
             {
                 PersonPicture.Image = Image.FromFile(Person.ImagePath);
             }
             else
             {
-                if(rdbMale.Checked)
+                if(Person.Gendor == 0)
                 {
                     PersonPicture.Image = Resources.man_in_suit_and_tie;
                 }
@@ -58,9 +58,9 @@ namespace DVLD
                     PersonPicture.Image = Resources.woman;
                 }
             }
-            cmbCountry.SelectedIndex = Person.NationalityCountryID;
-            cmbCountry.Items.Add(cmbCountry.SelectedIndex.ToString());*/
-                
+
+            
+
         }
         public PersonCard()
         {

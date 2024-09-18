@@ -3,46 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\personcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|c:\\users\\mahmood-hamed\\downloads\\my-git\\dvld-project\\dvld\\personcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|solutionrelative:personcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\personcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|solutionrelative:personcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|c:\\users\\mahmood-hamed\\downloads\\my-git\\dvld-project\\dvld\\people-mangment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|solutionrelative:people-mangment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\people-mangment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|solutionrelative:people-mangment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\addperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|solutionrelative:addperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2988BCA5-CC3C-4546-A675-834F32AA8DD1}|..\\DVLD-DataAccessLayer\\DVLD-DataAccessLayer.csproj|c:\\users\\mahmood-hamed\\downloads\\my-git\\dvld-project\\dvld-dataaccesslayer\\peopledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97DBC48F-AB62-49D0-91BE-8B847797B6FB}|..\\DVLD-BusinessLayer\\DVLD-BusinessLayer.csproj|c:\\users\\mahmood-hamed\\downloads\\my-git\\dvld-project\\dvld-businesslayer\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\personcard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|solutionrelative:personcard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\addperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|solutionrelative:addperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\addperson.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|solutionrelative:addperson.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\people-mangment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|solutionrelative:people-mangment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\personcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|solutionrelative:personcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988BCA5-CC3C-4546-A675-834F32AA8DD1}|..\\DVLD-DataAccessLayer\\DVLD-DataAccessLayer.csproj|c:\\users\\mahmood-hamed\\downloads\\my-git\\dvld-project\\dvld-dataaccesslayer\\countrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\people-mangment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|solutionrelative:people-mangment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|solutionrelative:mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\addperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|solutionrelative:addperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DBC48F-AB62-49D0-91BE-8B847797B6FB}|..\\DVLD-BusinessLayer\\DVLD-BusinessLayer.csproj|c:\\users\\mahmood-hamed\\downloads\\my-git\\dvld-project\\dvld-businesslayer\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\addperson.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|solutionrelative:addperson.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BC3D96C-8965-43F5-AB5A-934081EBA33C}|DVLD.csproj|C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,7 +60,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PersonCard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\PersonCard.cs",
               "RelativeDocumentMoniker": "PersonCard.cs",
@@ -83,7 +79,7 @@
               "RelativeDocumentMoniker": "PersonCard.cs",
               "ToolTip": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\PersonCard.cs",
               "RelativeToolTip": "PersonCard.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwC8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T03:17:56.271Z",
               "IsPinned": true,
@@ -91,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "AddPerson.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\AddPerson.cs",
               "RelativeDocumentMoniker": "AddPerson.cs",
@@ -99,26 +95,24 @@
               "RelativeToolTip": "AddPerson.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T07:49:55.479Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "AddPerson.cs",
               "DocumentMoniker": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\AddPerson.cs",
               "RelativeDocumentMoniker": "AddPerson.cs",
               "ToolTip": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\AddPerson.cs",
               "RelativeToolTip": "AddPerson.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T07:54:41.243Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "People-Mangment.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\People-Mangment.cs",
               "RelativeDocumentMoniker": "People-Mangment.cs",
@@ -126,26 +120,24 @@
               "RelativeToolTip": "People-Mangment.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T04:49:08.59Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "People-Mangment.cs",
               "DocumentMoniker": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\People-Mangment.cs",
               "RelativeDocumentMoniker": "People-Mangment.cs",
               "ToolTip": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\People-Mangment.cs",
               "RelativeToolTip": "People-Mangment.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T05:22:27.156Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "MainScreen.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\MainScreen.cs",
               "RelativeDocumentMoniker": "MainScreen.cs",
@@ -157,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "MainScreen.cs",
               "DocumentMoniker": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\MainScreen.cs",
               "RelativeDocumentMoniker": "MainScreen.cs",
@@ -182,40 +174,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PersonCard.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\PersonCard.Designer.cs",
-              "RelativeDocumentMoniker": "PersonCard.Designer.cs",
-              "ToolTip": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\PersonCard.Designer.cs",
-              "RelativeToolTip": "PersonCard.Designer.cs",
-              "ViewState": "AgIAAFcBAAAAAAAAAAAhwGABAAA4AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CountryData.cs",
+              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD-DataAccessLayer\\CountryData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-DataAccessLayer\\CountryData.cs",
+              "ToolTip": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD-DataAccessLayer\\CountryData.cs",
+              "RelativeToolTip": "..\\DVLD-DataAccessLayer\\CountryData.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwFAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:06:15.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T14:09:34.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "People.cs",
               "DocumentMoniker": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD-BusinessLayer\\People.cs",
               "RelativeDocumentMoniker": "..\\DVLD-BusinessLayer\\People.cs",
               "ToolTip": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD-BusinessLayer\\People.cs",
               "RelativeToolTip": "..\\DVLD-BusinessLayer\\People.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAhwDAAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T11:48:58.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PeopleData.cs",
-              "DocumentMoniker": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD-DataAccessLayer\\PeopleData.cs",
-              "RelativeDocumentMoniker": "..\\DVLD-DataAccessLayer\\PeopleData.cs",
-              "ToolTip": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD-DataAccessLayer\\PeopleData.cs",
-              "RelativeToolTip": "..\\DVLD-DataAccessLayer\\PeopleData.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T11:44:08.668Z"
             },
             {
               "$type": "Document",
@@ -225,14 +204,13 @@
               "RelativeDocumentMoniker": "AddPerson.Designer.cs",
               "ToolTip": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\AddPerson.Designer.cs",
               "RelativeToolTip": "AddPerson.Designer.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAhwDgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwDgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T09:36:28.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T09:36:28.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mahmood-hamed\\Downloads\\My-Git\\DVLD-Project\\DVLD\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

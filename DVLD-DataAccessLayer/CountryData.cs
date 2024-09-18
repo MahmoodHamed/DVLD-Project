@@ -77,7 +77,7 @@ namespace DVLD_DataAccessLayer
             {
                 connection.Close();
             }
-            DataColumn dc = dt.Columns[1];
+            DataColumn dc = dt.Columns[0];
             return dc;
 
         }
