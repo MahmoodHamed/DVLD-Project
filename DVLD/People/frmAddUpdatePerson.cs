@@ -80,8 +80,8 @@ namespace DVLD.People
             //should not allow adding age more than 100 years
             dtpDateOfBirth.MinDate = DateTime.Now.AddYears(-100);
 
-            //this will set default country to jordan.
-            cbCountry.SelectedIndex = cbCountry.FindString("Jordan");
+            //this will set default country to Iraq.
+            cbCountry.SelectedIndex = cbCountry.FindString("Iraq");
 
             txtFirstName.Text = "";
             txtSecondName.Text = "";

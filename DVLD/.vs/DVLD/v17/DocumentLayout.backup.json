@@ -35,13 +35,13 @@
       "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mahmood-hamed\\Downloads\\DVLD Project Final\\Project\\DVLD_Buisness\\clsPerson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mahmood-hamed\\Downloads\\DVLD Project Final\\Project\\DVLD_Buisness\\clsUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD-DataAccessLayer.csproj|C:\\Users\\mahmood-hamed\\Downloads\\DVLD Project Final\\Project\\DVLD_DataAccess\\clsPersonData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD-BusinessLayer.csproj|C:\\Users\\mahmood-hamed\\Downloads\\DVLD Project Final\\Project\\DVLD_Buisness\\clsPerson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD-BusinessLayer.csproj|C:\\Users\\mahmood-hamed\\Downloads\\DVLD Project Final\\Project\\DVLD_Buisness\\clsUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "clsPerson.cs",
               "DocumentMoniker": "C:\\Users\\mahmood-hamed\\Downloads\\DVLD Project Final\\Project\\DVLD_Buisness\\clsPerson.cs",
               "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsPerson.cs",
@@ -131,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "clsPersonData.cs",
               "DocumentMoniker": "C:\\Users\\mahmood-hamed\\Downloads\\DVLD Project Final\\Project\\DVLD_DataAccess\\clsPersonData.cs",
               "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsPersonData.cs",
@@ -188,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "clsUser.cs",
               "DocumentMoniker": "C:\\Users\\mahmood-hamed\\Downloads\\DVLD Project Final\\Project\\DVLD_Buisness\\clsUser.cs",
               "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsUser.cs",
